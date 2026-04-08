@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-san-francisco-roofing-service.dream-surge.com/sitemap-index.xml

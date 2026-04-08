@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "San Francisco Roofing Service",
+    "phone": "+16282030030",
+    "category": "siding contractor",
+    "city": "San Francisco",
+    "state": "CA"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-trust-navy",
+      "categoryGroup": "roofing",
+      "name": "Trust Navy",
+      "recipeFile": "roofing/trust-navy.astro",
+      "colors": {
+        "primary": "#2C4563",
+        "primaryDark": "#1B2F45",
+        "primaryLight": "#D4E0ED",
+        "secondary": "#3D5A80",
+        "accent": "#3D6B5A",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#2C4563",
+        "surface": "#F4F6F8",
+        "text": "#1A1A2E",
+        "textLight": "#4A5568",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "700",
+        "bodyFont": "Source Sans 3",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "dark",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/trust-navy"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "San Francisco's Siding Experts",
+      "heroSubline": "Protecting homes with durable, beautiful siding. Get a free quote today!",
+      "aboutTitle": "Built on Quality, Rooted in San Francisco",
+      "aboutText": [
+        "San Francisco Roofing Service started with a simple goal: to provide exceptional siding services to our neighbors throughout the Bay Area. We're a family-owned and operated business, and we believe in treating every home as if it were our own.",
+        "Our approach is straightforward: honest assessments, quality materials, and skilled craftsmanship. We prioritize clear communication and meticulous attention to detail, ensuring a smooth and stress-free experience from start to finish.",
+        "We're proud to be part of the San Francisco community, and we're committed to giving back. We actively support local initiatives and strive to minimize our environmental impact through responsible waste management and sustainable practices."
+      ],
+      "valueProps": [
+        {
+          "title": "Expert Craftsmanship",
+          "description": "Skilled installers ensure lasting protection and beauty for your home."
+        },
+        {
+          "title": "Premium Materials",
+          "description": "We use only the highest-quality siding products from trusted manufacturers."
+        },
+        {
+          "title": "Transparent Pricing",
+          "description": "No hidden fees, ever. You'll know exactly what you're paying for."
+        },
+        {
+          "title": "Local Expertise",
+          "description": "We understand the unique challenges of San Francisco's climate and architecture."
+        }
+      ],
+      "ctaHeadline": "Protect Your Home Today",
+      "ctaSubline": "Schedule a free consultation and discover the difference quality siding can make."
+    },
+    "services": [
+      {
+        "slug": "vinyl-siding-installation",
+        "name": "Vinyl Siding Installation",
+        "shortDescription": "Durable, affordable, and versatile siding solutions for San Francisco homes.",
+        "description": "Vinyl siding remains a popular choice for San Francisco homeowners seeking a balance of affordability, durability, and low maintenance. It's resistant to moisture, pests, and fading, making it an excellent option for our often damp and foggy climate. We offer a wide variety of colors and styles to complement any architectural design, from classic Victorian homes to modern condos. Our experienced installers ensure a precise and weather-tight fit, protecting your home from the elements for years to come. We handle everything from removing old siding to installing new trim and flashing, leaving you with a beautifully renovated home exterior. We carefully inspect your home's existing structure to ensure proper support and ventilation, preventing moisture buildup and prolonging the life of your new siding. We also offer a range of insulation options to improve energy efficiency and reduce your heating and cooling costs.",
+        "process": [
+          "Step 1: Consultation & Estimate - We assess your needs and provide a detailed, transparent quote.",
+          "Step 2: Material Selection - Choose from our extensive range of vinyl siding colors and styles.",
+          "Step 3: Removal & Preparation - We safely remove your old siding and prepare the surface for installation.",
+          "Step 4: Installation & Inspection - Our skilled team installs your new siding with precision and care."
+        ],
+        "benefits": [
+          "Affordable and cost-effective",
+          "Low maintenance and easy to clean",
+          "Resistant to moisture, pests, and fading",
+          "Wide variety of colors and styles"
+        ],
+        "faq": [
+          {
+            "question": "How long does vinyl siding last in San Francisco's climate?",
+            "answer": "With proper installation and maintenance, vinyl siding can last for 30-40 years in the San Francisco climate. Regular cleaning will help prevent mold and mildew growth."
+          },
+          {
+            "question": "What are the benefits of insulated vinyl siding?",
+            "answer": "Insulated vinyl siding provides added energy efficiency, reducing heating and cooling costs. It also helps to dampen outside noise and improve the overall comfort of your home."
+          },
+          {
+            "question": "Is vinyl siding environmentally friendly?",
+            "answer": "Modern vinyl siding is recyclable, and many manufacturers use recycled materials in their products. It's also a durable and long-lasting option, reducing the need for frequent replacements."
+          }
+        ]
+      },
+      {
+        "slug": "fiber-cement-siding-installation",
+        "name": "Fiber Cement Siding Installation",
+        "shortDescription": "Durable, fire-resistant, and beautiful siding for San Francisco's diverse architecture.",
+        "description": "Fiber cement siding is an increasingly popular choice for San Francisco homeowners who want a durable, low-maintenance, and aesthetically pleasing siding option. Made from a combination of cement, sand, and cellulose fibers, it offers exceptional resistance to fire, pests, and moisture. Fiber cement siding is also incredibly versatile, mimicking the look of wood, stucco, or brick. This makes it an ideal choice for preserving the architectural integrity of older homes in neighborhoods like Pacific Heights and the Marina. Our expert installers are trained to handle the unique challenges of fiber cement siding, ensuring a precise and long-lasting installation. We pay close attention to detail, properly sealing all seams and joints to prevent water damage. We also offer a wide range of colors and textures to match your home's existing style. Fiber cement siding is also a great choice for new construction projects, adding value and curb appeal to your property.",
+        "process": [
+          "Step 1: Consultation & Design - We help you choose the right fiber cement siding for your home.",
+          "Step 2: Precise Measurements - Accurate measurements ensure a perfect fit and minimal waste.",
+          "Step 3: Professional Installation - Our certified installers follow strict manufacturer guidelines.",
+          "Step 4: Quality Assurance - We inspect the finished product to ensure your complete satisfaction."
+        ],
+        "benefits": [
+          "Exceptional durability and longevity",
+          "Fire-resistant and pest-resistant",
+          "Versatile styles and textures",
+          "Low maintenance and easy to clean"
+        ],
+        "faq": [
+          {
+            "question": "How does fiber cement siding hold up in San Francisco's weather?",
+            "answer": "Fiber cement siding is highly resistant to moisture, rot, and pests, making it an excellent choice for San Francisco's often damp climate. It won't warp or crack like wood siding can."
+          },
+          {
+            "question": "Can fiber cement siding be painted?",
+            "answer": "Yes, fiber cement siding can be painted to match your home's color scheme. It holds paint exceptionally well, providing a long-lasting and beautiful finish."
+          },
+          {
+            "question": "What is the average lifespan of fiber cement siding?",
+            "answer": "With proper installation and maintenance, fiber cement siding can last for 50 years or more, making it a worthwhile investment for your home."
+          }
+        ]
+      },
+      {
+        "slug": "wood-siding-installation",
+        "name": "Wood Siding Installation",
+        "shortDescription": "Classic beauty and natural charm for San Francisco's historic homes.",
+        "description": "Wood siding offers a timeless aesthetic that complements San Francisco's many Victorian and Edwardian homes. We specialize in installing and repairing various types of wood siding, including clapboard, shingle, and board-and-batten. We understand the importance of preserving the original character of these historic homes, and we use only the highest-quality wood materials to ensure a seamless and authentic restoration. Our skilled craftsmen have years of experience working with wood siding, and they take pride in their attention to detail. We carefully prepare the surface before installation, ensuring proper drainage and ventilation to prevent moisture damage. We also offer a range of staining and painting options to protect your wood siding from the elements and enhance its natural beauty. Proper maintenance is crucial for wood siding, which is why we provide expert advice and maintenance services to keep your siding looking its best for years to come.",
+        "process": [
+          "Step 1: Assessment and Consultation - We evaluate your existing wood siding and discuss your options.",
+          "Step 2: Material Selection - Choose from a variety of wood species and styles.",
+          "Step 3: Precise Installation - Our experienced craftsmen install your new wood siding with precision.",
+          "Step 4: Finishing and Protection - We stain or paint your siding to protect it from the elements."
+        ],
+        "benefits": [
+          "Classic and timeless aesthetic",
+          "Natural beauty and warmth",
+          "Environmentally friendly and sustainable",
+          "Adds value to your home"
+        ],
+        "faq": [
+          {
+            "question": "What are the benefits of using redwood siding in San Francisco?",
+            "answer": "Redwood is naturally resistant to insects and decay, making it a durable and long-lasting choice for San Francisco's climate. It also has a beautiful natural color and grain pattern."
+          },
+          {
+            "question": "How often should wood siding be painted or stained?",
+            "answer": "Wood siding should be painted or stained every 5-7 years, depending on the climate and the type of finish used. Regular maintenance will help prevent moisture damage and extend the life of your siding."
+          },
+          {
+            "question": "What are the signs that my wood siding needs repair?",
+            "answer": "Signs of damage include rot, warping, cracking, and insect infestations. It's important to address these issues promptly to prevent further damage to your home."
+          }
+        ]
+      },
+      {
+        "slug": "stucco-siding-services",
+        "name": "Stucco Siding Services",
+        "shortDescription": "Traditional stucco application and repair for San Francisco homes.",
+        "description": "Stucco is a popular siding choice in San Francisco, known for its durability and ability to withstand the elements. We offer comprehensive stucco siding services, including new installations, repairs, and refinishing. Our team of experienced stucco specialists is skilled in applying traditional and synthetic stucco systems, ensuring a smooth and long-lasting finish. We understand the importance of proper preparation and application techniques to prevent cracking and water damage. We use only the highest-quality materials and follow industry best practices to ensure a durable and weather-resistant stucco siding. Whether you're looking to install new stucco siding or repair existing damage, we have the expertise to get the job done right. Stucco siding is a cost-effective and energy-efficient option that can enhance the curb appeal and value of your home. We can also add decorative elements to your stucco siding, such as arches, moldings, and textures, to create a unique and personalized look.",
+        "process": [
+          "Step 1: Consultation and Assessment - We evaluate your existing stucco and discuss your needs.",
+          "Step 2: Preparation and Application - We prepare the surface and apply the stucco in multiple layers.",
+          "Step 3: Texturing and Finishing - We create the desired texture and finish for your stucco siding.",
+          "Step 4: Sealing and Protection - We seal the stucco to protect it from the elements."
+        ],
+        "benefits": [
+          "Durable and long-lasting",
+          "Fire-resistant and pest-resistant",
+          "Energy-efficient and cost-effective",
+          "Versatile styles and textures"
+        ],
+        "faq": [
+          {
+            "question": "What are the advantages of stucco siding in San Francisco's climate?",
+            "answer": "Stucco is highly resistant to moisture, fire, and pests, making it an excellent choice for San Francisco's climate. It also provides good insulation, helping to regulate indoor temperatures."
+          },
+          {
+            "question": "How often should stucco siding be inspected?",
+            "answer": "Stucco siding should be inspected annually for cracks, chips, and other signs of damage. Prompt repairs can prevent further damage and extend the life of your siding."
+          },
+          {
+            "question": "Can stucco siding be painted?",
+            "answer": "Yes, stucco siding can be painted with a breathable elastomeric paint. This will help protect the stucco from moisture and prevent cracking."
+          }
+        ]
+      },
+      {
+        "slug": "siding-repair-services",
+        "name": "Siding Repair Services",
+        "shortDescription": "Expert siding repair to protect your San Francisco home from the elements.",
+        "description": "Damaged siding can compromise the structural integrity of your home and leave it vulnerable to water damage, pests, and energy loss. We offer comprehensive siding repair services to address any issues, from minor cracks and holes to extensive rot and decay. Our experienced technicians are skilled in repairing all types of siding, including vinyl, fiber cement, wood, and stucco. We use only the highest-quality materials and techniques to ensure a lasting and seamless repair. We understand the importance of addressing siding issues promptly to prevent further damage and protect your investment. Whether you have storm damage, insect infestations, or simply wear and tear, we can restore your siding to its original condition. We also offer preventative maintenance services to help extend the life of your siding and avoid costly repairs in the future. Our goal is to provide you with peace of mind knowing that your home is protected by durable and well-maintained siding.",
+        "process": [
+          "Step 1: Inspection and Assessment - We identify the extent of the damage and provide a detailed estimate.",
+          "Step 2: Material Matching - We match the existing siding to ensure a seamless repair.",
+          "Step 3: Expert Repair - Our skilled technicians repair the damaged siding with precision.",
+          "Step 4: Quality Assurance - We inspect the finished repair to ensure your complete satisfaction."
+        ],
+        "benefits": [
+          "Protects your home from the elements",
+          "Prevents water damage and pest infestations",
+          "Improves energy efficiency",
+          "Enhances curb appeal"
+        ],
+        "faq": [
+          {
+            "question": "What are the common causes of siding damage in San Francisco?",
+            "answer": "Common causes of siding damage in San Francisco include moisture, wind, storms, and insect infestations. Older homes may also experience siding damage due to settling and age."
+          },
+          {
+            "question": "How do I know if my siding needs repair?",
+            "answer": "Signs that your siding needs repair include cracks, holes, rot, warping, and peeling paint. You may also notice increased energy bills or water stains on your interior walls."
+          },
+          {
+            "question": "Is it better to repair or replace my siding?",
+            "answer": "The decision to repair or replace your siding depends on the extent of the damage and the age of your siding. If the damage is minor and localized, repair may be the best option. However, if the damage is extensive or your siding is old and deteriorating, replacement may be necessary."
+          }
+        ]
+      },
+      {
+        "slug": "siding-replacement-services",
+        "name": "Siding Replacement Services",
+        "shortDescription": "Upgrade your San Francisco home with new, durable, and beautiful siding.",
+        "description": "When siding is beyond repair, replacement is the best option to protect your home and enhance its curb appeal. We offer comprehensive siding replacement services, providing you with a wide range of options to choose from. Our experienced team will guide you through the selection process, helping you choose the right siding material, color, and style to complement your home's architecture and your personal preferences. We handle every aspect of the replacement process, from removing the old siding to installing the new siding with precision and care. We use only the highest-quality materials and follow industry best practices to ensure a durable and long-lasting result. Replacing your siding can not only improve the look of your home but also increase its energy efficiency and value. We are committed to providing you with a seamless and stress-free siding replacement experience. We also offer financing options to make siding replacement more affordable.",
+        "process": [
+          "Step 1: Consultation and Planning - We discuss your needs and help you choose the right siding.",
+          "Step 2: Removal and Disposal - We safely remove and dispose of your old siding.",
+          "Step 3: Installation - Our skilled team installs your new siding with precision and care.",
+          "Step 4: Final Inspection - We conduct a final inspection to ensure your complete satisfaction."
+        ],
+        "benefits": [
+          "Enhances curb appeal and home value",
+          "Improves energy efficiency",
+          "Protects your home from the elements",
+          "Increases home comfort"
+        ],
+        "faq": [
+          {
+            "question": "What are the benefits of replacing my old siding?",
+            "answer": "Replacing old siding can improve your home's curb appeal, increase its value, improve energy efficiency, and protect it from the elements."
+          },
+          {
+            "question": "How long does siding replacement take?",
+            "answer": "The duration of a siding replacement project depends on the size and complexity of your home. Most projects can be completed in 1-2 weeks."
+          },
+          {
+            "question": "What is the cost of siding replacement?",
+            "answer": "The cost of siding replacement varies depending on the material, size of your home, and complexity of the project. We offer free estimates to provide you with a clear understanding of the costs involved."
+          }
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria S.",
+        "rating": 5,
+        "service": "Vinyl Siding Installation",
+        "text": "San Francisco Roofing Service did an amazing job installing vinyl siding on my home in the Sunset District! The crew was professional, efficient, and the price was very reasonable. My house looks brand new.",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Fiber Cement Siding Replacement",
+        "text": "I hired San Francisco Roofing Service to replace my old wood siding with fiber cement siding. The quality of the work was excellent, and the crew was respectful of my property. There were a few minor delays due to weather, but they kept me informed throughout the process.",
+        "date": "2025-04-22"
+      },
+      {
+        "name": "Jennifer L.",
+        "rating": 5,
+        "service": "Stucco Siding Repair",
+        "text": "My stucco siding had some cracks and damage from the recent earthquake. San Francisco Roofing Service came out quickly and repaired the damage expertly. You can't even tell there was ever a problem!",
+        "date": "2025-05-10"
+      },
+      {
+        "name": "Robert P.",
+        "rating": 5,
+        "service": "Wood Siding Installation",
+        "text": "We wanted to maintain the historic look of our Victorian home in Alamo Square. San Francisco Roofing Service did a fantastic job installing new wood siding that perfectly matches the original. Highly recommend!",
+        "date": "2025-06-01"
+      },
+      {
+        "name": "Susan M.",
+        "rating": 4,
+        "service": "Siding Repair",
+        "text": "I had some damaged siding after a bad storm. San Francisco Roofing Service was quick to respond and repair the damage. The repair was seamless and the price was fair.",
+        "date": "2025-07-18"
+      },
+      {
+        "name": "Michael B.",
+        "rating": 5,
+        "service": "Vinyl Siding Installation",
+        "text": "Great experience with San Francisco Roofing Service. They were professional, on time, and the quality of their work was outstanding. My new vinyl siding looks fantastic!",
+        "date": "2025-08-05"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "San Francisco Siding Contractor | Expert Installers",
+        "description": "San Francisco Roofing Service: Siding installation & repair experts. Vinyl, fiber cement, wood siding. Free quotes!"
+      },
+      "about": {
+        "title": "About San Francisco Roofing Service",
+        "description": "Learn about San Francisco Roofing Service, your trusted local siding contractor. Quality work, fair prices."
+      },
+      "services": {
+        "title": "San Francisco Siding Services",
+        "description": "Siding installation, repair, & replacement in San Francisco. Vinyl, fiber cement, wood, stucco. Free estimates!"
+      },
+      "contact": {
+        "title": "Contact San Francisco Roofing Service",
+        "description": "Contact San Francisco Roofing Service for siding installation, repair, & replacement quotes. Call +16282030030."
+      },
+      "reviews": {
+        "title": "San Francisco Roofing Service Reviews",
+        "description": "Read reviews for San Francisco Roofing Service. See what our satisfied siding customers are saying about us."
+      },
+      "service-areas": {
+        "title": "San Francisco Siding Service Areas",
+        "description": "San Francisco Roofing Service provides siding services throughout the Bay Area. Find your city!"
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    },
+    "serviceAreas": [
+      {
+        "city": "San Francisco",
+        "slug": "san-francisco-ca",
+        "state": "CA",
+        "content": "San Francisco Roofing Service is proud to offer our top-quality siding services to the residents and businesses of San Francisco. As a locally owned and operated company, we understand the unique architectural styles and weather challenges that San Francisco homes face. We are committed to providing durable, beautiful, and energy-efficient siding solutions that will protect your property for years to come.\n\nOur experienced team of siding installers is dedicated to delivering exceptional craftsmanship and customer service. Whether you're looking to upgrade your existing siding, repair damage, or install new siding on a construction project, we have the expertise to handle any job, big or small. We offer a wide range of siding materials, including vinyl, wood, fiber cement, and metal, to suit your aesthetic preferences and budget.\n\nWe are familiar with the building codes and regulations specific to San Francisco, ensuring that all our siding installations are compliant and meet the highest standards of quality. We take pride in our reputation for reliability, professionalism, and customer satisfaction. Contact us today for a free consultation and let us help you enhance the beauty and value of your San Francisco property.",
+        "localContext": "San Francisco is known for its iconic landmarks, diverse neighborhoods, and vibrant culture. The city experiences a unique microclimate, with cool summers and mild winters, making it essential to choose siding materials that can withstand the coastal weather conditions.",
+        "nearbyAreas": [
+          "Oakland",
+          "Berkeley",
+          "Sausalito"
+        ]
+      },
+      {
+        "city": "Oakland",
+        "slug": "oakland-ca",
+        "state": "CA",
+        "content": "San Francisco Roofing Service extends its expert siding services to the vibrant city of Oakland. We understand the diverse architectural landscape of Oakland, from historic Victorian homes to modern developments. Our team is equipped to handle any siding project, ensuring your home or business is protected and aesthetically pleasing.\n\nWe offer a comprehensive range of siding options, including vinyl, wood, and fiber cement, tailored to Oakland's specific climate and style preferences. Our experienced installers are committed to providing top-notch workmanship and exceptional customer service. We prioritize durability and energy efficiency in all our siding installations.\n\nWe are dedicated to serving the Oakland community with integrity and professionalism. Contact us today for a free estimate and let us help you enhance the beauty and value of your Oakland property with our reliable siding solutions.",
+        "localContext": "Oakland boasts a rich history, diverse culture, and a thriving arts scene. The city's proximity to the bay influences its weather patterns, making durable and weather-resistant siding crucial for homes and businesses.",
+        "nearbyAreas": [
+          "Berkeley",
+          "Alameda",
+          "San Leandro"
+        ]
+      },
+      {
+        "city": "Berkeley",
+        "slug": "berkeley-ca",
+        "state": "CA",
+        "content": "San Francisco Roofing Service is pleased to provide siding services to the community of Berkeley, California. We recognize the unique character of Berkeley's homes, from craftsman bungalows to contemporary designs. Our team is committed to delivering siding solutions that complement the city's architectural diversity and withstand its climate.\n\nWe offer a wide selection of siding materials, including environmentally friendly options, to suit Berkeley's eco-conscious residents. Our skilled installers ensure precise and efficient siding installation, prioritizing quality and customer satisfaction. Whether you need new siding, repairs, or replacements, we have the expertise to handle your project.\n\nWe are dedicated to providing reliable and professional siding services to the Berkeley community. Contact us today for a free consultation and let us help you enhance the curb appeal and protection of your Berkeley property.",
+        "localContext": "Berkeley is a vibrant city known for its progressive values, intellectual atmosphere, and beautiful views of the San Francisco Bay. The city's climate is characterized by mild temperatures and occasional fog, making durable and weather-resistant siding essential.",
+        "nearbyAreas": [
+          "Oakland",
+          "Albany",
+          "Emeryville"
+        ]
+      },
+      {
+        "city": "Sausalito",
+        "slug": "sausalito-ca",
+        "state": "CA",
+        "content": "San Francisco Roofing Service is proud to offer expert siding services to the picturesque town of Sausalito. We understand the unique architectural styles and coastal environment that define Sausalito homes. Our team is dedicated to providing siding solutions that enhance the beauty and protect the integrity of your property.\n\nWe offer a variety of siding materials, including options that are resistant to moisture and salt air, which are common in Sausalito's coastal climate. Our experienced installers ensure precise and efficient siding installation, prioritizing quality and customer satisfaction. Whether you need new siding, repairs, or replacements, we have the expertise to handle your project.\n\nWe are committed to providing reliable and professional siding services to the Sausalito community. Contact us today for a free consultation and let us help you enhance the curb appeal and protection of your Sausalito property.",
+        "localContext": "Sausalito is a charming waterfront town known for its stunning views of the San Francisco skyline, art galleries, and yacht harbor. The town's coastal location exposes homes to moisture and salt air, making durable and weather-resistant siding crucial.",
+        "nearbyAreas": [
+          "Mill Valley",
+          "Tiburon",
+          "San Francisco"
+        ]
+      },
+      {
+        "city": "Mill Valley",
+        "slug": "mill-valley-ca",
+        "state": "CA",
+        "content": "San Francisco Roofing Service is delighted to extend our siding expertise to the beautiful community of Mill Valley. We recognize the diverse architectural styles and lush surroundings that characterize Mill Valley homes. Our team is committed to providing siding solutions that complement the town's natural beauty and withstand its climate.\n\nWe offer a wide selection of siding materials, including natural wood options that blend seamlessly with Mill Valley's wooded landscape. Our skilled installers ensure precise and efficient siding installation, prioritizing quality and customer satisfaction. Whether you need new siding, repairs, or replacements, we have the expertise to handle your project.\n\nWe are dedicated to providing reliable and professional siding services to the Mill Valley community. Contact us today for a free consultation and let us help you enhance the curb appeal and protection of your Mill Valley property.",
+        "localContext": "Mill Valley is a charming town nestled in the redwood forests of Marin County, known for its natural beauty, hiking trails, and vibrant arts scene. The town's climate is characterized by mild temperatures and occasional fog, making durable and weather-resistant siding essential.",
+        "nearbyAreas": [
+          "Sausalito",
+          "Tiburon",
+          "Corte Madera"
+        ]
+      },
+      {
+        "city": "San Rafael",
+        "slug": "san-rafael-ca",
+        "state": "CA",
+        "content": "San Francisco Roofing Service is pleased to offer our expert siding services to the residents and businesses of San Rafael, California. We understand the diverse architectural styles and weather conditions that San Rafael homes face. Our team is committed to providing durable, beautiful, and energy-efficient siding solutions that will protect your property for years to come.\n\nOur experienced team of siding installers is dedicated to delivering exceptional craftsmanship and customer service. Whether you're looking to upgrade your existing siding, repair damage, or install new siding on a construction project, we have the expertise to handle any job, big or small. We offer a wide range of siding materials to suit your aesthetic preferences and budget.\n\nWe are familiar with the building codes and regulations specific to San Rafael, ensuring that all our siding installations are compliant and meet the highest standards of quality. Contact us today for a free consultation and let us help you enhance the beauty and value of your San Rafael property.",
+        "localContext": "San Rafael is the oldest, largest, and most culturally diverse city in Marin County. Its Mediterranean climate makes it important to choose siding that can withstand the warm, dry summers and mild, wet winters.",
+        "nearbyAreas": [
+          "Novato",
+          "San Anselmo",
+          "Larkspur"
+        ]
+      },
+      {
+        "city": "Pacifica",
+        "slug": "pacifica-ca",
+        "state": "CA",
+        "content": "San Francisco Roofing Service proudly serves Pacifica, CA, offering reliable and high-quality siding services. We understand the unique challenges that coastal homes face, including exposure to salt air, moisture, and strong winds. Our team is dedicated to providing siding solutions that protect your home and enhance its curb appeal.\n\nWe offer a wide variety of siding materials, including vinyl, fiber cement, and wood, to suit your Pacifica home's style and budget. Our experienced installers ensure that your siding is installed correctly and efficiently, providing long-lasting protection against the elements. We are committed to providing excellent customer service and exceeding your expectations.\n\nChoose San Francisco Roofing Service for all your siding needs in Pacifica. We are a local company with a proven track record of quality workmanship and customer satisfaction. Contact us today for a free estimate and let us help you protect and beautify your home.",
+        "localContext": "Pacifica is a coastal city known for its stunning beaches, surfing, and foggy weather. Choosing siding that is resistant to moisture and salt air is essential for homes in Pacifica.",
+        "nearbyAreas": [
+          "Daly City",
+          "Half Moon Bay",
+          "San Bruno"
+        ]
+      },
+      {
+        "city": "Daly City",
+        "slug": "daly-city-ca",
+        "state": "CA",
+        "content": "San Francisco Roofing Service is pleased to offer our comprehensive siding services to the residents of Daly City. We understand the diverse architectural styles found throughout Daly City and are equipped to handle any siding project, from minor repairs to complete replacements. Our goal is to provide durable and aesthetically pleasing siding solutions that enhance the value and curb appeal of your home.\n\nWe offer a wide range of siding materials, including vinyl, fiber cement, and wood, to suit your budget and preferences. Our experienced installers are committed to providing top-notch workmanship and exceptional customer service. We take pride in our attention to detail and our commitment to customer satisfaction.\n\nIf you're looking for a reliable and experienced siding contractor in Daly City, look no further than San Francisco Roofing Service. Contact us today for a free estimate and let us help you protect and beautify your home with our quality siding services.",
+        "localContext": "Daly City is a diverse and vibrant city located just south of San Francisco. It is known for its foggy weather and proximity to the Pacific Ocean, making durable and weather-resistant siding a necessity for homes in the area.",
+        "nearbyAreas": [
+          "Pacifica",
+          "South San Francisco",
+          "San Bruno"
+        ]
+      }
+    ]
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "vinyl-siding-installation": "/images/service-vinyl-siding-installation.webp",
+      "fiber-cement-siding-installation": "/images/service-fiber-cement-siding-installation.webp",
+      "wood-siding-installation": "/images/service-wood-siding-installation.webp",
+      "stucco-siding-services": "/images/service-stucco-siding-services.webp",
+      "siding-repair-services": "/images/service-siding-repair-services.webp",
+      "siding-replacement-services": "/images/service-siding-replacement-services.webp"
+    },
+    "servicesResponsive": {
+      "vinyl-siding-installation": {
+        "src": "/images/service-vinyl-siding-installation.webp",
+        "srcset": "/images/service-vinyl-siding-installation-400w.webp 400w, /images/service-vinyl-siding-installation-800w.webp 800w, /images/service-vinyl-siding-installation-1200w.webp 1200w, /images/service-vinyl-siding-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "fiber-cement-siding-installation": {
+        "src": "/images/service-fiber-cement-siding-installation.webp",
+        "srcset": "/images/service-fiber-cement-siding-installation-400w.webp 400w, /images/service-fiber-cement-siding-installation-800w.webp 800w, /images/service-fiber-cement-siding-installation-1200w.webp 1200w, /images/service-fiber-cement-siding-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "wood-siding-installation": {
+        "src": "/images/service-wood-siding-installation.webp",
+        "srcset": "/images/service-wood-siding-installation-400w.webp 400w, /images/service-wood-siding-installation-800w.webp 800w, /images/service-wood-siding-installation-1200w.webp 1200w, /images/service-wood-siding-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "stucco-siding-services": {
+        "src": "/images/service-stucco-siding-services.webp",
+        "srcset": "/images/service-stucco-siding-services-400w.webp 400w, /images/service-stucco-siding-services-800w.webp 800w, /images/service-stucco-siding-services-1200w.webp 1200w, /images/service-stucco-siding-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "siding-repair-services": {
+        "src": "/images/service-siding-repair-services.webp",
+        "srcset": "/images/service-siding-repair-services-400w.webp 400w, /images/service-siding-repair-services-800w.webp 800w, /images/service-siding-repair-services-1200w.webp 1200w, /images/service-siding-repair-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "siding-replacement-services": {
+        "src": "/images/service-siding-replacement-services.webp",
+        "srcset": "/images/service-siding-replacement-services-400w.webp 400w, /images/service-siding-replacement-services-800w.webp 800w, /images/service-siding-replacement-services-1200w.webp 1200w, /images/service-siding-replacement-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
